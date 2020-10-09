@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
+  <!-- Created by Tavmjong Bah, 2012 -->
+  <title>Line join study</title>
+  <desc>Morphing between various arc line joins.</desc>
+ 
+  <rect width="400" height="400" style="fill:white"/>
+
+  <path style="fill:#aaaaaa;fill-opacity:0.5;stroke:red"  d="M 75,250 H 175 A 50,50 0 0 1 225,200  75, 75 0 0 1 225,350 125,125 0 0 0 225,100 150,150 0 0 0 75,250 Z"/>
+  <path style="fill:#aaaaaa;fill-opacity:0.5;stroke:blue" d="M 75,250 H 175 A 50,50 0 0 1 225,200 100,100 0 0 1 225,400 150,150 0 0 0 225,100 150,150 0 0 0 75,250 Z"/>
+</svg>
